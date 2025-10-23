@@ -1,0 +1,5 @@
+{
+  "name": "Team Sync Calendar",
+  "description": "A collaborative calendar application designed for teams to easily coordinate and schedule events. Users can create shared schedules, invite participants, and vote on the best dates and times, streamlining the process of finding a time that works for everyone.",
+  "requestFramePermissions": []
+}
